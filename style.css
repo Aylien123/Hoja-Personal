@@ -1,0 +1,35 @@
+.alert {
+    color:black;
+    font-size: 2res;
+    background-color: aqua;
+    width: 50vn;
+    height: 3vh;
+
+}
+body  {
+    caret-color : "#AFEEEE"
+ }
+
+table, th, td { 
+    border: 1px solid black;
+    border-collapse: collapse;
+} 
+th,td { 
+    padding: 10px;
+}
+th {
+    text-align: left;
+}
+th { 
+    background-color: cornflowerblue;
+    color: black;
+
+}
+        h2  
+        {  color:blueviolet}
+    
+
+        h1 { color:black}
+     
+
+    
